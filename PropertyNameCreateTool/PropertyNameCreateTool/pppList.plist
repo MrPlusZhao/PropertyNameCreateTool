@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name22</key>
+	<string>&quot;我在哪?&quot;</string>
+	<key>name11</key>
+	<string>&quot;我是谁?&quot;</string>
+	<key>doc</key>
+	<string>&quot;什么?&quot;</string>
+	<key>userId</key>
+	<string>&quot;100011&quot;</string>
+	<key>userNumber</key>
+	<real>13877776666</real>
+	<key>userInfo</key>
+	<dict>
+		<key>name</key>
+		<string>王二小</string>
+		<key>age</key>
+		<string>38</string>
+	</dict>
+	<key>workPlaceList</key>
+	<array>
+		<string>北京</string>
+		<string>上海</string>
+	</array>
+</dict>
+</plist>
